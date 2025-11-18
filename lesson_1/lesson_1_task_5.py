@@ -1,4 +1,4 @@
-def bystro_dengi(num):  # Юмористы
+def bystro_dengi(num):  # Юмористы, шутники))
     print(num, end='')
 
 
