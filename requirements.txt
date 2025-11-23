@@ -1,2 +1,4 @@
 pytest:
 pytest==9.0.1
+selenium==4.38.0
+
